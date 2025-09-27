@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from typing import Dict, Any
 
 # Configure APIs and Email
-GEMINI_API_KEY = "AIzaSyA_0BoXTxGHzM5Athd_cbac6b1Z6xZyJ9E"
+
 SERPER_API_KEY = "5abce63108fa0916d4a9fd2b68635d875c0ddfa5"
 EMAIL_ADDRESS = "muditagrawal9415369961@gmail.com"
 EMAIL_PASSWORD = "cznhn meoq fkxn zpfo opy"  # App password for Gmail
